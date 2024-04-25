@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshps&label=Profile%20views&color=0e75b6&style=flat" alt="ekanshps" /> </p>
 
-- 🔭 I’m currently working on [My Porfolio](https://ekanshps.github.io/portfolio/)
+- 🔭 I’m currently working on [My Porfolio](www.ekucoder.xyz)
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 👨‍💻 All of my projects are available at [https://ekanshps.github.io/portfolio/](https://ekanshps.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [www.ekucoder.xyz](www.ekucoder.xyz )
 
 - 📫 How to reach me **Ekanshprataps@gmail.com**
 
-- 📄 Know about my experiences [https://ekanshps.github.io/portfolio/](https://ekanshps.github.io/portfolio/)
+- 📄 Know about my experiences [www.ekucoder.xyz](www.ekucoder.xyz)
 
 - ⚡ Fun fact **I'm a Gamer, E-athlete, BGMI.**
 
