@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 👨‍💻 All of my projects are available at [www.ekucoder.xyz](www.ekucoder.xyz )
+- 👨‍💻 All of my projects are available at (https://www.ekucoder.xyz )
 
 - 📫 How to reach me **Ekanshprataps@gmail.com**
 
-- 📄 Know about my experiences [www.ekucoder.xyz](www.ekucoder.xyz)
+- 📄 Know about my experiences (https://www.ekucoder.xyz )
 
 - ⚡ Fun fact **I'm a Gamer, E-athlete, BGMI.**
 
