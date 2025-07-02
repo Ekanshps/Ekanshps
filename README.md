@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ekansh Pratap Singh</h1>
-<h3 align="center">I'm a final year BCA student with a passion for frontend development. With a solid foundation in C, C++, HTML, CSS, and JavaScript, I'm on a journey to craft captivating web experiences. As a beginner in the world of graphic design, I'm constantly exploring new creative horizons. Join me on my coding odyssey as we bring the digital world to life, one project at a time. 🚀</h3>
+<h3 align="center">I'm a final year MCA student with a passion for frontend development. With a solid foundation in C, C++, HTML, CSS, and JavaScript, I'm on a journey to craft captivating web experiences. As a beginner in the world of graphic design, I'm constantly exploring new creative horizons. Join me on my coding odyssey as we bring the digital world to life, one project at a time. 🚀</h3>
 <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="Coding Image" width="400" height="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekanshps&label=Profile%20views&color=0e75b6&style=flat" alt="ekanshps" /> </p>
 
-- 🔭 I’m currently working on [My Porfolio](https://www.ekucoder.xyz )
+- 🔭 I’m currently working on [My Porfolio](https://epsingh.me/Portfolio.dev/ )
 
 - 🌱 I’m currently learning **Frontend Web Development**
 
-- 👨‍💻 All of my projects are available at (https://www.ekucoder.xyz )
+- 👨‍💻 All of my projects are available at (https://epsingh.me/Portfolio.dev/)
 
 - 📫 How to reach me **Ekanshprataps@gmail.com**
 
-- 📄 Know about my experiences (https://www.ekucoder.xyz )
+- 📄 Know about my experiences (https://epsingh.me/Portfolio.dev/)
 
 - ⚡ Fun fact **I'm a Gamer, E-athlete, BGMI.**
 
