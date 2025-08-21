@@ -40,15 +40,15 @@
 ---
 
 ### 🐍 Contribution Snake  
-![Snake animation](https://github.com/eku-username/Ekanshps/blob/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://raw.githubusercontent.com/Ekanshps/Ekanshps/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 🌍 Connect With Me  
 🌐 Portfolio: [epsingh.me/eku](https://epsingh.me/eku/)  
-📷 Instagram: [@Promptble](https://instagram.com/promptble)  
-🎮 BGMI Tag: **XPxLYZRog (Xyro)**  
-📧 Email: [Your Email Here]  
+📷 Instagram: [@Promptble](https://instagram.com/ekansh.pratap)  
+🎮 BGMI Tag: **XPxDEADigl**  
+📧 Email: Ekanshprataps@gmail.com  
 
 ---
 
