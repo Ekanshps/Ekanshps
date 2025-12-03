@@ -14,8 +14,8 @@
 **MCA student** with a builder mindset—mixing **Web Dev**, **AI**, and **Esports**. I enjoy turning ideas into polished products with clean code, good UX, and measurable impact.
 
 - 🎯 **Focus:** Full-stack dev, applied AI, content automation, gaming analytics  
-- 🎮 **Esports:** BGMI (Xplosion Esports) — IGL: **XPxLYZRog (Xyro)**  
-- 🧭 **Languages:** Learning **Japanese** & **Kannada** to expand opportunities  
+- 🎮 **Esports:** BGMI (Xplosion Esports) — IGL: **XPxDEADigl (Ayush)**  
+- 🧭 **Languages:** Learning **Kannada** to expand opportunities  
 - 💼 **Collab:** Open to hackathons, OSS, and high-leverage side projects
 
 ---
