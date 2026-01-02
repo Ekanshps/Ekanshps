@@ -85,7 +85,7 @@
 - 📈 Content: technical scripts, faceless edits, esports visuals
 
 **Email:** <Ekanshprataps@gmail.com>  
-**Instagram:** [@Promptble](https://instagram.com/promptble)  
+**Instagram:** [@DevArea](https://instagram.com/area.dev)  
 **Portfolio:** [epsingh.me/eku](https://epsingh.me/eku/)
 
 ---
