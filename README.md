@@ -51,14 +51,7 @@
 
 ---
 
-## 📊 Impact & Activity
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ekanshps&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=Ekanshps&theme=tokyonight&hide_border=true" alt="streaks"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ekanshps&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
-</div>
 
----
 
 ## 🧪 Tech Radar (2025)
 - **Doubling down:** React + Node, Python for data/AI, MySQL/Mongo for persistence
