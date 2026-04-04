@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=F7A80A&center=true&vCenter=true&width=700&lines=Ekansh+Pratap+Singh+(EKU)%20%E2%80%94%20MCA+Student;Web+Developer%20%E2%80%A2%20AI+Enthusiast%20%E2%80%A2%20Esports+Player;Code.+Create.+Compete.+Conquer." alt="Typing intro" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=Ekanshps&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <a href="https://epsingh.me/eku"><img src="https://img.shields.io/badge/Portfolio-Live-1f6feb?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://epsingh.in"><img src="https://img.shields.io/badge/Portfolio-Live-1f6feb?style=flat-square" alt="Portfolio"/></a>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=flat-square" alt="Open to collaborate"/>
   <img src="https://img.shields.io/badge/Location-India-informational?style=flat-square" alt="Location"/>
 </div>
